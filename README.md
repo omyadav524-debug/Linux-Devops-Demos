@@ -4,3 +4,7 @@
 
 '''''bash
 git clone <repo_link>
+
+** How it workd**
+- Weh repo clone it will copy entire fuile and folders created to your local system
+- you can check log using git command 
